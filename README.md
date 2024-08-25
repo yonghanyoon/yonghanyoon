@@ -1,4 +1,5 @@
-![항해 플러스 수료 인증서](https://github.com/user-attachments/assets/33c857d2-ed77-4e96-906e-5be085b5232e)
+<img src="https://github.com/user-attachments/assets/33c857d2-ed77-4e96-906e-5be085b5232e" width="400" height="400" />
+<br>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
 </a>
