@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/33c857d2-ed77-4e96-906e-5be085b5232e" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/33c857d2-ed77-4e96-906e-5be085b5232e" width="313" height="450" />
 <br>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
